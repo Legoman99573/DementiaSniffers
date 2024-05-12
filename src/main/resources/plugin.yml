@@ -1,0 +1,6 @@
+name: DementiaSniffers
+version: '${project.version}'
+main: com.ugandavrc.dementiasniffers.DementiaSniffers
+api-version: '1.20'
+authors:
+  - Who is the author again
